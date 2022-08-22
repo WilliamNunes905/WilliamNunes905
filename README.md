@@ -1,9 +1,9 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Eu sou o William!</h1>
 <br>
+- 🌍️ Atualmente moro em Armazém-SC
+<br>
+- 📖️ Estudando Desenvolvimento Web Fullstack pela Trybe | Turma 26
 
-
-- 📖️ Estudando na Escola de programação TRYBE 
--
 
 <div align="right">
 <img src="https://user-images.githubusercontent.com/110850779/185822952-e2135361-e77f-4b45-b412-784ab55da018.gif "width=280px />
@@ -12,7 +12,7 @@
 
 ##
 
-<h1 align="center">💻 Tecnologias & Ferramentas</h1>
+<h1 align="center">💻 Linguagens & Ferramentas</h1>
 <div align="center">
 <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
 <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
