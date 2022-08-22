@@ -4,8 +4,8 @@
 
 
 - 🌱 Estudando na Escola de programação TRYBE 
-<div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<div align="right">
+<img src="https://user-images.githubusercontent.com/110850779/185818359-a49a470d-e2ff-408e-8dd7-d0507c6f8a8a.jpg"width=550px />
 </div>
 
 ##
