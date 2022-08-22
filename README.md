@@ -1,7 +1,6 @@
 <h1 align="center">Olá Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Eu sou o William!</h1>
 <br>
 
-<img align = "right" width = "420px"  src ="https://images6.alphacoders.com/105/1050408.jpg"
 
 
 - 🌱 Estudando na Escola de programação TRYBE 
