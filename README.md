@@ -1,13 +1,12 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Seja Bem-vindo(a)!</h1>
 <br>
-Me chamo William, 
+- 🧒️ Me chamo William, Tenho 21 anos.<br>
 <br>
-
-
-
+ 
 - 🌍️ Atualmente moro em Armazém-SC
 - 📖️ Estudando Desenvolvimento Web Fullstack pela Trybe | Turma 26
-
+- 👾️ Meus hobbies :
+- 
 
 <div align="right">
 <img src="https://user-images.githubusercontent.com/110850779/185822952-e2135361-e77f-4b45-b412-784ab55da018.gif "width=280px />
