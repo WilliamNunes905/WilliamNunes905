@@ -5,7 +5,7 @@
 
 - 🌱 Estudando na Escola de programação TRYBE 
 <div align="right">
-<img src="https://user-images.githubusercontent.com/110850779/185819862-69db35dd-ddf8-430c-b179-191eed195e2a.gif "width=250px />
+<img src="https://user-images.githubusercontent.com/110850779/185820432-382063ba-de8b-4194-a6ca-a5075aca1828.gif "width=150px />
 </div>
 
 ##
