@@ -6,6 +6,15 @@
 - 🌱 Estudando na Escola de programação TRYBE 
 
 
+##
+
+<div align="center">
+<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
+<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
+<br>
+
 <div align="center">
   <a href="https://github.com/WilliamNunes905">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamNunes905&show_icons=true&theme=chartreuse-dark&show_icons=true"/>
@@ -13,9 +22,6 @@
 </div>
 
 
-<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
-<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
                      
           
        
