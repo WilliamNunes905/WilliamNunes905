@@ -6,7 +6,9 @@
 <div align="right">
 <img src="https://user-images.githubusercontent.com/110850779/185822952-e2135361-e77f-4b45-b412-784ab55da018.gif "width=280px />
 </div>
+<br>
 
+##
 
 <h1 align="center">💻 Tecnologias & Ferramentas</h1>
 <div align="center">
@@ -14,6 +16,7 @@
 <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
+<br>
 <br>
 
 <div align="center">
