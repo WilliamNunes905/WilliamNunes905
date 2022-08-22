@@ -16,11 +16,11 @@
 
 <h1 align="center">💻 Linguagens & Ferramentas</h1>
 <div align="center">
-<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
-<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="HTML" height="90" width="100" src="https://skillicons.dev/icons?i=css,&perline=3" />          
+<img align="center" alt="CSS" height="90" width="100" src="https://skillicons.dev/icons?i=js,&perline=3" />
+<img align="center" alt="JavaScript" height="90" width="100" src="https://skillicons.dev/icons?i=linux,&perline=3" />
+ <img align="center" alt="JavaScript" height="90" width="100" src="https://skillicons.dev/icons?i=html,&perline=3" />
 </div>
-<br>
 <br>
 
 <div align="center">
