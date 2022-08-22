@@ -2,7 +2,9 @@
 <br>
 
 
-- 🌱 Estudando na Escola de programação TRYBE 
+- 📖️ Estudando na Escola de programação TRYBE 
+-
+
 <div align="right">
 <img src="https://user-images.githubusercontent.com/110850779/185822952-e2135361-e77f-4b45-b412-784ab55da018.gif "width=280px />
 </div>
@@ -25,7 +27,7 @@
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&layout=compact&langs_count=7&theme=chartreuse-dark&show_icons=true"/>
 </div>
 
-
+![Snake animation](https://github.com/WilliamNunes905/WilliamNunes905/blob/output/github-contribution-grid-snake.svg)
                      
           
        
