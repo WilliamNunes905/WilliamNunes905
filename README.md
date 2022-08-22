@@ -2,12 +2,13 @@
 <br>
 
 
-
 - 🌱 Estudando na Escola de programação TRYBE 
 <div align="right">
 <img src="https://user-images.githubusercontent.com/110850779/185820432-382063ba-de8b-4194-a6ca-a5075aca1828.gif "width=150px />
 </div>
-
+<div align="right">
+<img src="https://user-images.githubusercontent.com/110850779/185820501-5cd5dbe7-eae1-4bdd-8fe9-f4887198d885.gif"width=150px />
+</div>
 ##
 
 <h1 align="center">💻 Tecnologias & Ferramentas</h1>
