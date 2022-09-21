@@ -1,6 +1,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Seja Bem-vindo(a)!</h1>
 <br>
-- 🧒️ Me chamo William, Tenho 21 anos.<br>
+- 🧒️ Me chamo William
+Tenho 21 anos.<br>
 <br>
  
 - 🌍️ Atualmente moro em Armazém-SC
