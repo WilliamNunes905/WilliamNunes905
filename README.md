@@ -2,7 +2,7 @@
 <br>
 - 🧒️ Me chamo William, Tenho 21 anos.
 <br>
- 
+<br> 
 - 🌍️ Atualmente moro em Armazém-SC
 - 📖️ Estudando Desenvolvimento Web Fullstack pela Trybe | Turma 26
 - 🖥️ Atualmente estou aprendendo sobre HTML, CSS e JavaScript.
