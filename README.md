@@ -5,7 +5,7 @@
 - 🖥️ Atualmente estou aprendendo sobre HTML, CSS e JavaScript.
 <hr>
 
-<h1 align="center">💻 Linguagens & Ferramentas</h1>
+<h1 align="center">💻 Linguagens & Ferramentas Aprendidas</h1>
 <div align="center">
 <img align="center" alt="JavaScript" height="90" width="100" src="https://skillicons.dev/icons?i=html,&perline=3" /> 
 <img align="center" alt="HTML" height="90" width="100" src="https://skillicons.dev/icons?i=css,&perline=3" />          
