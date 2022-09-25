@@ -6,9 +6,7 @@
 - 🌍️ Atualmente moro em Armazém-SC
 - 📖️ Estudando Desenvolvimento Web Fullstack pela Trybe | Turma 26
 - 🖥️ Atualmente estou aprendendo sobre HTML, CSS e JavaScript.
-<br>
 <hr>
-##
 
 <h1 align="center">💻 Linguagens & Ferramentas</h1>
 <div align="center">
