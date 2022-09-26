@@ -3,7 +3,7 @@
 
 📖️ Sou estudante de desenvolvimento Full Stack
 <br>
-💻️ escola de programação Trybe
+💻️ Escola de programação Trybe
 
 <hr>
 <div align="center">
