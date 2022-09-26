@@ -1,6 +1,9 @@
 <h2 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Eu sou o William !</h2>
 <br>
 
+📖️ Sou estudante de desenvolvimento Full Stack
+💻️ escola de programação Trybe
+
 <hr>
 <div align="center">
   <a href="https://github.com/WilliamNunes905">
