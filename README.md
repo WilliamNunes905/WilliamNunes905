@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">,Eu sou William !</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Eu sou William !</h1>
 <br>
 
 
@@ -8,7 +8,7 @@
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&layout=compact&langs_count=7&theme=chartreuse-dark&show_icons=true"/>
 </div>
 
-
+## Tecnologias que estou Aprendendo :
 
                      
           
