@@ -8,6 +8,7 @@
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&layout=compact&langs_count=7&theme=chartreuse-dark&show_icons=true"/>
 </div>
 <hr>
+  
 ## Tecnologias que estou Aprendendo :
 
  <div style="display: inline_block">
