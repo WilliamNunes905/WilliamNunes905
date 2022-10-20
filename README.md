@@ -40,8 +40,9 @@ TOOLS
  <div>
  <img alt="nodejs" width="60px" src="https://img.icons8.com/color/344/nodejs.png"/>
  <img alt="github" width="50px" src="https://img.icons8.com/ios-filled/344/github.png"/>
- <img alt="slack" width="50px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
+ <img alt="visual" width="50px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
  <img alt="slack" width="50px" src="https://img.icons8.com/color/344/slack-new.png"/>
+ <img alt="linux" width="55px" src="https://img.icons8.com/color/344/linux.png"/>
  </div>
  <br>
  
