@@ -30,19 +30,33 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   
   FRONT-END
   <div>
-   <img align="center" alt="CSS3" width="60px" src="https://img.icons8.com/plasticine/344/react.png"/>
+         <img align="center" alt="CSS3" width="60px" src="https://img.icons8.com/plasticine/344/react.png"/>
   </div>
-  
+         
   <br>
+         
+ <div align="center">
+TEST
+ </div>      
+ 
+<div>
+       <img alt="jest" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png"/>
+</div>
+         
+      
+ <br>
+         
  <div align="center">
 TOOLS
  </div>
+ 
  <div>
- <img alt="github" width="50px" src="https://img.icons8.com/ios-filled/344/github.png"/>
- <img alt="visual" width="50px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
- <img alt="slack" width="50px" src="https://img.icons8.com/color/344/slack-new.png"/>
- <img alt="linux" width="55px" src="https://img.icons8.com/color/344/linux.png"/>
+         <img alt="github" width="50px" src="https://img.icons8.com/ios-filled/344/github.png"/>
+         <img alt="visual" width="50px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
+         <img alt="slack" width="50px" src="https://img.icons8.com/color/344/slack-new.png"/>
+         <img alt="linux" width="55px" src="https://img.icons8.com/color/344/linux.png"/>
  </div>
  <br>
- 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
+ <br>
+  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
