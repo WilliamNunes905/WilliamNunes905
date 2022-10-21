@@ -13,7 +13,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=WilliamNunes905&bg_color=000000&color=00aaff&line=2618f2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
-<hr>
+##
 <h2 align="center">
   <img width="25px" src="https://cdn-icons-png.flaticon.com/512/3756/3756488.png" /> TECHNOLOGIES AND TOOLS:
   
@@ -21,7 +21,7 @@
 
 <div  align="center"> 
 <br>
- <img align="center" alt="Javascript" width="52px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"/>
+ <img align="center" alt="Javascript" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"/>
  <img align="center" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
  <img align="center" alt="CSS3" width="60px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -38,7 +38,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 TOOLS
  </div>
  <div>
- <img alt="nodejs" width="60px" src="https://img.icons8.com/color/344/nodejs.png"/>
  <img alt="github" width="50px" src="https://img.icons8.com/ios-filled/344/github.png"/>
  <img alt="visual" width="50px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
  <img alt="slack" width="50px" src="https://img.icons8.com/color/344/slack-new.png"/>
