@@ -17,8 +17,6 @@
 <h2 align="center">
   <img width="25px" src="https://cdn-icons-png.flaticon.com/512/3756/3756488.png" /> TECHNOLOGIES AND TOOLS:
   
-<br>
-
 <div  align="center"> 
 <br>
  <img align="center" alt="Javascript" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"/>
