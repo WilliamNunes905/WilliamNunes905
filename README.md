@@ -6,7 +6,7 @@
 <br>
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilliamNunes905&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="William Nunes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&layout=compact&hide_border=true&title_color=1e90ff&text_color=00008B&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&layout=compact&hide_border=true&title_color=0093E9&text_color=0093E9&bg_color=0d1117" />
 </div>
 <br>
 <br>
