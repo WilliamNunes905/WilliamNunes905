@@ -11,8 +11,6 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=WilliamNunes905&bg_color=000000&color=00aaff&line=2618f2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
 ##
 <h2 align="center">
   <img width="25px" src="https://cdn-icons-png.flaticon.com/512/3756/3756488.png" /> TECHNOLOGIES AND TOOLS:
