@@ -1,58 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
-         
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+William;I'm+21+years+old;I+from+Brazil-SC;I'm+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
-<br> 
-<br>
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilliamNunes905&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="William Nunes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&layout=compact&hide_border=true&title_color=0093E9&text_color=0093E9&bg_color=0d1117" />
-</div>
-<br>
-<br>
+ # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hello, welcome to my GitHub
 
-##
-<h2 align="center">
-  <img width="25px" src="https://cdn-icons-png.flaticon.com/512/3756/3756488.png" /> TECHNOLOGIES AND TOOLS:
-  
-<div  align="center"> 
-<br>
- <img align="center" alt="Javascript" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"/>
- <img align="center" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
- <img align="center" alt="CSS3" width="60px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-  <div/>
-  <br>
-  
-  FRONT-END
-  <div>
-         <img align="center" alt="CSS3" width="60px" src="https://img.icons8.com/plasticine/344/react.png"/>
-  </div>
-         
-  <br>
-         
- <div align="center">
-TEST
- </div>      
+
+<p>My name is William Nunes, I'm 21 years old and I'm entering the technology area, I'm a fullstack student at Trybe and currently I'm deepening my knowledge in Front-end. I'm from Armazém-SC, I really like to play, mainly fps, rpg and open world games. And I'm always willing to learn and help.</p>
+
+
+
+<h2>💻 Skills</h2>
+
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 4px;" height="30px">
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="30px">
+ </p>
  
-<div>
-       <img alt="jest" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png"/>
-</div>
-         
-      
- <br>
-         
- <div align="center">
-TOOLS
- </div>
- 
- <div>
-         <img alt="github" width="50px" src="https://img.icons8.com/ios-filled/344/github.png"/>
-         <img alt="visual" width="50px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
-         <img alt="slack" width="50px" src="https://img.icons8.com/color/344/slack-new.png"/>
-         <img alt="linux" width="55px" src="https://img.icons8.com/color/344/linux.png"/>
- </div>
- <br>
- <br>
-  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
+ <h2>🌟 GitHub status</h2>
+  <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=WilliamNunes905&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="William" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" height="165" />
+</p>
+
+<h2>contact</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/williamnunesdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
