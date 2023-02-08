@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="Pedro Sincero" height="165" />
 </p>
 
-<h2>contact</h2>
+<h2>👤️ Contacts</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/williamnunesdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
