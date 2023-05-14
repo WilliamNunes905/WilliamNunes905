@@ -1,7 +1,7 @@
  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hello, welcome to my GitHub
 
 
-<p>My name is William Nunes, I'm 21 years old and I'm entering the technology area, I'm a fullstack student at Trybe and currently I'm deepening my knowledge in Front-end. I'm from Tubarão-SC, I really like to play, mainly fps, rpg and open world games. And I'm always willing to learn and help.</p>
+<p>My name is William Nunes, I'm 21 years old and I'm entering the technology area, I'm a fullstack student at Trybe and currently I'm deepening my knowledge in Back-end. I'm from Tubarão-SC, I really like to play, mainly fps, rpg and open world games. And I'm always willing to learn and help.</p>
 
 
 <hr/>
