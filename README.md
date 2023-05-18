@@ -6,7 +6,7 @@
 
 <hr/>
 
-<details>
+
   <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
   <br/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
@@ -23,17 +23,14 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</details>
 
 
  
-<details>
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
   <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=WilliamNunes905&count_private=true&show_icons=true&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="William" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamNunes905&langs_count=8&layout=compact&title_color=3483d8&bg_color=22272e&hide_border=true&theme=dracula" alt="William" height="165" />
-</details>
 
 <h2>👤️ Contacts</h2>
 
