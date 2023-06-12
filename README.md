@@ -1,6 +1,6 @@
 ### 👋 Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="[https://www.linkedin.com/in/aryclenio-barros-060322135/](https://www.linkedin.com/in/williamnunesdev/)">
+<a target="_blank" href="https://www.linkedin.com/in/williamnunesdev/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="[https://api.whatsapp.com/send?phone=5584999828379](https://api.whatsapp.com/send?phone=5548999002857)">
@@ -19,7 +19,7 @@ Hi, I'm William Nunes, I'm from Tubarão-SC 💚.
     
 **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
 
-* ✏ Weekly writer on dev.to, [follow me]([https://www.linkedin.com/in/aryclenio-barros-060322135/](https://www.linkedin.com/in/williamnunesdev/)). 
+* ✏ Weekly writer on dev.to, [follow me](https://www.linkedin.com/in/williamnunesdev/). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
 * 🛹 Also surfing on microcontrollers stuff.
