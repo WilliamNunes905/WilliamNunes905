@@ -1,22 +1,13 @@
 ### 👋 Hello World, I'm William!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+<a target="_blank" href="[https://www.linkedin.com/in/aryclenio-barros-060322135/](https://www.linkedin.com/in/williamnunesdev/)">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+<a target="_blank" href="[https://api.whatsapp.com/send?phone=5584999828379](https://api.whatsapp.com/send?phone=5548999002857)">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://dev.to/aryclenio/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="williamtrybe@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://fb.com/aryxb">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </br>
 
@@ -28,7 +19,7 @@ Hi, I'm William Nunes, I'm from Tubarão-SC 💚.
     
 **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Zelda** 🗡 fan. 
 
-* ✏ Weekly writer on dev.to, [follow me](https://dev.to/aryclenio). 
+* ✏ Weekly writer on dev.to, [follow me]([https://www.linkedin.com/in/aryclenio-barros-060322135/](https://www.linkedin.com/in/williamnunesdev/)). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
 * 🛹 Also surfing on microcontrollers stuff.
@@ -49,10 +40,6 @@ Hi, I'm William Nunes, I'm from Tubarão-SC 💚.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
-
-
-<p>My name is William Nunes, I'm 21 years old and I'm entering the technology area, I'm a fullstack student at Trybe and currently I'm deepening my knowledge in Back-end. I'm from Tubarão-SC, I really like to play, mainly fps, rpg and open world games. And I'm always willing to learn and help.</p>
-
   
 <div align="center">
   <a href="https://github.com/WilliamNunes905">
