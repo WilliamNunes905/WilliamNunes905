@@ -13,7 +13,7 @@ Hi, I'm William Nunes, I'm from Tubarão-SC 💚.
     
 **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮. 
 
-* ✏ social network, [follow me](https://www.linkedin.com/in/williamnunesdev/). 
+* ✏ Social network, [follow me](https://www.linkedin.com/in/williamnunesdev/). 
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
 * 👽 Learning any tecnology that apears on my way.
 * 🛹 In search of knowledge!
