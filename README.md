@@ -9,7 +9,7 @@
 
 Hi, I'm William Nunes, I'm from Tubarão-SC 💚.
 
-📖️ I'm a fullstack student at Trybe and currently, I'm deepening my knowledge in Back-end.
+📖️ I'm a fullstack student at Trybe and currently, I'm deepening my knowledge in Front-end.
 
 * ✏ Social network, [follow me](https://www.linkedin.com/in/williamnunesdev/). 
 * 💫 Always aiming at **usability** and **code performance**. 
