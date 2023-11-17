@@ -7,7 +7,7 @@
 
 ---- 
 
-Hi, I'm William Nunes, I'm from Tubarão-SC 💚.
+Hi, I'm William Nunes, I'm from Tubarão / Santa-catarina 💚.
 
 📖️ I'm a fullstack student at Trybe and currently, I'm deepening my knowledge in Front-end.
 
