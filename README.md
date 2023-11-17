@@ -10,12 +10,9 @@
 Hi, I'm William Nunes, I'm from Tubarão-SC 💚.
 
 📖️ I'm a fullstack student at Trybe and currently, I'm deepening my knowledge in Back-end.
-    
-**A Sport lover** ⚽️, and a good **video-game player** 🎮. 
 
 * ✏ Social network, [follow me](https://www.linkedin.com/in/williamnunesdev/). 
-* 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
+* 💫 Always aiming at **usability** and **code performance**. 
 * 🛹 In search of knowledge!
 
 ----
