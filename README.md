@@ -8,12 +8,12 @@
 ##
 
 **Linguagem que uso:**  
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,html,css,vite,jest,nodejs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,react,typescript,nodejs,vite,jest)](https://skillicons.dev)
 
 ##
 
 **Ferramentas que uso:**  
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,git)](https://skillicons.dev)
 
 ## 
 
