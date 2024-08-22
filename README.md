@@ -8,7 +8,7 @@
 ##
 
 **Linguagem que uso:**  
-[![My Skills](https://skillicons.dev/icons?i=java,js,react,typescript,nodejs,vite,jest,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,vite,jest,mysql)](https://skillicons.dev)
 
 ##
 
